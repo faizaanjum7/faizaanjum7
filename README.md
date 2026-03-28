@@ -1,5 +1,5 @@
-<h1 align="center">hi 👋, i'm faiza :)</h1>
-<h3 align="center">a frontend dev and computer science student</h3>
+<h1 align="center">hi! i'm faiza :)</h1>
+<h3 align="center">a frontend dev and computer science student ⋆.𐙚 ̊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizaanjum7&label=Profile%20views&color=0e75b6&style=flat" alt="faizaanjum7" /> </p>
 
