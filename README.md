@@ -1,11 +1,11 @@
 <h1 align="center">hi! i'm faiza :)</h1>
 <h3 align="center">a frontend dev and computer science student ⋆.𐙚 ̊</h3>
 
-- i’m currently working on [lms platform as part of my internship](https://next-gen-lms-app.vercel.app/)
+- i’m currently working on [lms platform as part of my internship](https://next-gen-lms-app.vercel.app/), where i’m exploring full stack development and real-world application building.
 
-- i’m currently learning **react js and node js!!**
+- i’m also learning **react js and node js!!**
 
-- i would love to collaborate on **any ui project to learn and grow in ui field hehe**
+- i would love to collaborate on **ui-focused projects to learn, experiment and grow in this space** .✦ ݁˖
 
 - how to reach me ✉⋆ ˚｡ ⋆୨୧˚ **faizaanjumm07@gmail.com**
 
