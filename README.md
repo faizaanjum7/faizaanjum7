@@ -1,8 +1,8 @@
 <h1 align="center">hi! i'm faiza :)</h1>
 <h3 align="center">a frontend dev and computer science student ⋆.𐙚 ̊</h3>
 
-- i’m currently working on [lms platform as part of my internship](https://next-gen-lms-app.vercel.app/), where i’m exploring full stack development and real-world application building.
-
+- i’m currently participating in GSSoC’26 as a contributor, where i’m exploring open-source contribution.
+  
 - i’m also learning **react js and node js!!**
 
 - i would love to collaborate on **ui-focused projects to learn, experiment and grow in this space** .✦ ݁˖
